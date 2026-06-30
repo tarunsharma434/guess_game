@@ -1,2 +1,2 @@
-this game guess perfect guess number by user
+this game guess the perfect guess number by user
 
